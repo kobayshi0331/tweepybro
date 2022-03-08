@@ -1,0 +1,6 @@
+tweepy
+time
+requests
+beautifulsoup4
+urllib3==1.24.1
+selenium
